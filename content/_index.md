@@ -5,4 +5,4 @@ draft: true
 ---
 
 List of contact tracing applications
-{{< airtable >}}
+{{< airtable src="https://airtable.com/embed/shrsbx1YCXeSXcqjy?backgroundColor=gray&viewControls=on" >}}
