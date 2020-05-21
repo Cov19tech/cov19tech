@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "CoVid-19 Tech"
+title = "COVID-19 Tech"
 theme = "loveit"
 
 [params]
@@ -13,11 +13,11 @@ theme = "loveit"
 [menu]
   
   [[menu.main]]
-    identifier = "tags"
+    identifier = "apps"
     pre = ""
     post = ""
-    name = "Tags"
-    url = "/tags/"
+    name = "Apps"
+    url = "/apps/"
     title = ""
     weight = 2
   [[menu.main]]
