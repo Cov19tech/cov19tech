@@ -1,8 +1,8 @@
 ---
-title: "TraceTogether"
+title: "ProteGo Safe"
 region: " "
-date: 2020-05-22T15:27:02-04:00
-region: "Singapore"
+date: 2020-05-26T17:50:52-04:00
+region: "XXXX"
 draft: true
 ---
 

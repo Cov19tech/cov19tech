@@ -16,16 +16,16 @@ theme = "loveit"
     identifier = "apps"
     pre = ""
     post = ""
-    name = "Apps"
+    name = "Contact Tracing Apps"
     url = "/apps/"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "categories"
+    identifier = "about"
     pre = ""
     post = ""
-    name = "Categories"
-    url = "/categories/"
+    name = "About"
+    url = "/about/"
     title = ""
     weight = 3
   [[menu.main]]
