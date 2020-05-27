@@ -1,5 +1,5 @@
 ﻿Name,Target Geography,App/Framework/API,Developed by,Official Website,Platforms,Framework/API/Approach,Proximity detection,Exposure calculation,Personal information collected (on signup),Souce code?,Current Status,Notes,Source code link
-Aarogya Setu,India,App,Government of India,https://www.mygov.in/aarogya-setu-app/,"Android,iOS",,Bluetooth and GPS,Centralized,Phone number,Closed source,Available. 80+ million downloads,,
+Aarogya Setu,India,App,Government of India,https://www.mygov.in/aarogya-setu-app/,"Android,iOS",,Bluetooth and GPS,Centralized,Phone number,Open source (android only),Available. 80+ million downloads,,https://github.com/nic-delhi/AarogyaSetu_Android
 NHS COVID-19,UK,App,UK government / NHS,https://covid19.nhs.uk/,"Android,iOS",,Bluetooth (local storage only),Centralized,First part of pin/postcode,Open source,In beta trials (Isle of Wright),"https://github.com/NHSX
 https://news.ycombinator.com/item?id=23107553
 https://reincubate.com/blog/staying-alive-covid-19-background-tracing/
@@ -22,7 +22,7 @@ CoronApp,Colombia,App,,https://coronaviruscolombia.gov.co/Covid19/aislamiento-sa
 Care19,US - North Dakota,App,,https://ndresponse.gov/covid-19-resources/care19,"Android,iOS",,GPS,,,,,,
 ???,South Korea,App,,,,,,,,,,,
 BeAware,Bahrain,App,,https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/,,,,,,,,,
-Swiss Contact Tracing App,Switzerland,App,,https://ncs-tf.ch/de/policy-briefs/digital-proximity-tracing-15-may-20-en/download,,DP3-T,Bluetooth,On device,,,,,
+SwissCovid,Switzerland,App,EPFL and ETH Zurich,https://ncs-tf.ch/de/policy-briefs/digital-proximity-tracing-15-may-20-en/download,,"DP3-T,Apple-Google Privacy-Preserving Contact Tracing Specification",Bluetooth,On device,,,,,
 Apturi Covid,Latvia,App,,https://www.apturicovid.lv/#en,,Apple-Google Privacy-Preserving Contact Tracing Specification,,,,,,,
 Estonia Contact Tracing App,Estonia,App,,https://e-estonia.com/trace-covid-19-while-respecting-privacy/,,Apple-Google Privacy-Preserving Contact Tracing Specification,,,,,,,
 Ketju,Finland,App,2m-IT,https://ketjusovellus.fi/,,,,,,,,,
