@@ -36,3 +36,15 @@ theme = "loveit"
     url = "/contact/"
     title = ""
     weight = 3
+
+[params.list]
+    # special amount of posts in each list page
+    paginate = 50
+    
+[params.section]
+    # special amount of posts in each section page
+    paginate = 50
+
+      
+
+
