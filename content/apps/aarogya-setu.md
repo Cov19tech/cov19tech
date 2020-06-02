@@ -69,5 +69,5 @@ What is the estimted depployment (no. of downloads, percentage of populration) o
 
 ### Sources
 Links to all sources of information used
-https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/aarogya-setu-app-does-not-access-your-data-unless-you-have-covid-19-says-niti-aayogs-arnab-kumar/articleshow/75650510.cms
+
 

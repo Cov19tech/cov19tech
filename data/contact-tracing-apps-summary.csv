@@ -1,44 +1,32 @@
-﻿Name,Target Geography,App/Framework/API,Developed by,Official Website,Platforms,Framework/API/Approach,Proximity detection,Exposure calculation,Personal information collected (on signup),Souce code?,Current Status,Notes,Source code link
-Aarogya Setu,India,App,Government of India,https://www.mygov.in/aarogya-setu-app/,"Android,iOS",,Bluetooth and GPS,Centralized,Phone number,Open source (android only),Available. 80+ million downloads,,https://github.com/nic-delhi/AarogyaSetu_Android
-NHS COVID-19,UK,App,UK government / NHS,https://covid19.nhs.uk/,"Android,iOS",,Bluetooth (local storage only),Centralized,First part of pin/postcode,Open source,In beta trials (Isle of Wright),"https://github.com/NHSX
-https://news.ycombinator.com/item?id=23107553
-https://reincubate.com/blog/staying-alive-covid-19-background-tracing/
-https://www.bbc.com/news/technology-52551273
-https://www.ncsc.gov.uk/blog-post/security-behind-nhs-contact-tracing-app
-",https://github.com/nhsx/COVID-19-app-Documentation-BETA
-TraceTogether,Singapore,App,Government Technology Agency - Singapore,https://www.tracetogether.gov.sg/,"Android,iOS",BlueTrace,Bluetooth,Centralized ,Phone number,Open source (reference implementation) - Open Trace,Available. Few million users,,https://github.com/opentrace-community
-COVIDsafe,Australia,App,,https://www.health.gov.au/resources/apps-and-tools/covidsafe-app,,BlueTrace,Bluetooth,Centralized,,Closed source,,"https://www.theguardian.com/australia-news/2020/may/07/covid-safe-app-downloads-ios-android-iphone-australian-government-covidsafe-tracking-how-to-download-install-works-working-problems-issues-battery-australia-coronavirus-contact-tracing
-",
-Corona-Warn-App,Germany,App,German Government  with SAP + Deutsche Telekom,https://github.com/corona-warn-app/cwa-documentation,,Apple-Google Privacy-Preserving Contact Tracing Specification,Bluetooth - Google/Apple APIs?,On device (Google/Apple API),,Open source,,,https://github.com/corona-warn-app
-StopCovid,France,App,French government,https://www.inria.fr/fr/stopcovid,,ROBERT,,,,Open source (partially),,,https://gitlab.inria.fr/stopcovid19
-Close Contact Detector (?),China,App,Chinese gov,?,,,,,,Closed source,,,
-,Taiwan,App,,,,,,,,,,,
-Smittestopp,Norway,App,,https://helsenorge.no/coronavirus/smittestopp,,,Bluetooth and GPS,Centralized,,,,,
-ProteGo Safe,Poland,App,,https://www.gov.pl/web/cyfryzacja/pokonajmy-razem-koronawirusa--poznaj-protego-safe,,Apple-Google Privacy-Preserving Contact Tracing Specification,Bluetooth - Google/Apple APIs?,On device (Google/Apple API),,Open source,,,https://github.com/ProteGO-Safe
-Immuni,Italy,App,Bending Spoons,,,Apple-Google Privacy-Preserving Contact Tracing Specification,Bluetooth - Google/Apple APIs?,On device (Google/Apple API),,,,,
-Hamagen,Israel,App,,https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/,,,GPS,On device?,,,,,
-Stopp Corona,Austria,App,Austrian Red Cross / Accenture?,https://participate.roteskreuz.at/stopp-corona/,"Android,iOS",,Bluetooth,,,Open source,https://github.com/austrianredcross,,
-CoronApp,Colombia,App,,https://coronaviruscolombia.gov.co/Covid19/aislamiento-saludable/coronapp.html,,,Bluetooth and GPS,,,,,,
-Care19,US - North Dakota,App,,https://ndresponse.gov/covid-19-resources/care19,"Android,iOS",,GPS,,,,,,
-???,South Korea,App,,,,,,,,,,,
-BeAware,Bahrain,App,,https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/,,,,,,,,,
-SwissCovid,Switzerland,App,EPFL and ETH Zurich,https://ncs-tf.ch/de/policy-briefs/digital-proximity-tracing-15-may-20-en/download,,"DP3-T,Apple-Google Privacy-Preserving Contact Tracing Specification",Bluetooth,On device,,,,,
-Apturi Covid,Latvia,App,,https://www.apturicovid.lv/#en,,Apple-Google Privacy-Preserving Contact Tracing Specification,,,,,,,
-Estonia Contact Tracing App,Estonia,App,,https://e-estonia.com/trace-covid-19-while-respecting-privacy/,,Apple-Google Privacy-Preserving Contact Tracing Specification,,,,,,,
-Ketju,Finland,App,2m-IT,https://ketjusovellus.fi/,,,,,,,,,
-Ireland Contact Tracing App,Ireland,App,,,,,,,,,,,
-CovidRadar,Mexico,App,,http://covidradar.mx,,,Bluetooth,,,,,,
-ViruSafe,Bulgaria,App,ScaleFocus,https://virusafe.info/,,,GPS,,,Open source,https://github.com/scalefocus?q=virusafe,,
-MyTrace,Malaysia,App,,https://www.mosti.gov.my/web/en/mytrace/,Android,,Bluetooth,Centralized,,Closed source,,,
-Rakning C-19,Iceland,App,,https://www.covid.is/app/is,"Android,iOS",,GPS,,Phone number,,,,
-,Canada,App,,,,,,,,,,,
-,Luxembourg,App,,,,,,,,,,,
-,Russia,App,,,,,,,,,,,
-,Ghana,,,,,,,,,,,,
-ALHOSN UAE,United Arab Emirates,App,,https://www.ncema.gov.ae/alhosn/index.html,"Android,iOS",,Bluetooth,,,,,,
-NZ COVID Tracer App,New Zealand,,,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-general-public/contact-tracing-covid-19/nz-covid-tracer-app,"Android,iOS",,Manual checkin (QR code),,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+﻿Name,Target Geography,Logo,Official Website,Framework/API/Approach,Proximity detection,Exposure calculation,Personal information collected (on signup),Souce code?,Source code link,Developed by,Current Status
+COVIDsafe,Australia,XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmY=s180-rw (https://dl.airtable.com/.attachments/8eb30a5220741e54abbb313a20d2f168/4833cb1e/XVzoq3SW1hHpc-IJmqm-hayFKFrJlL-4uqNduzFg7QOYWW-B3cLf38ocxrGPx3Q3XmYs180-rw),https://www.health.gov.au/resources/apps-and-tools/covidsafe-app,BlueTrace,Bluetooth,Centralized,,Closed source,,,
+Stopp Corona,Austria,89xSCT3mnBsrvbvdKK6bi8Vw9UdGYTG4XsXgPW4Y0-7J-r1CQkXomoUa9VN3i1DEAQ=s180-rw (https://dl.airtable.com/.attachments/b0dd8fef0e4e8d8cc9212d6f2284d765/1f11eb52/89xSCT3mnBsrvbvdKK6bi8Vw9UdGYTG4XsXgPW4Y0-7J-r1CQkXomoUa9VN3i1DEAQs180-rw),https://participate.roteskreuz.at/stopp-corona/,,Bluetooth,,,Open source,https://github.com/austrianredcross,Austrian Red Cross / Accenture?,
+BeAware,Bahrain,8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wu=s180-rw (https://dl.airtable.com/.attachments/72c94facc47fcff7a636cb1a11402a07/1412b3bf/8TMJmaOvTfeuiP18b4KWIvOE4nykZpMT5DCHj_tgPagGwz1mAEYNtPj2TdUiUMizC1Wus180-rw),https://www.bahrain.bh/wps/portal/!ut/p/a1/jZDLDoJADEW_xQVbWgdBdDcS8REJPhBxNgbMOGqQMYjg54u6wnd3bc5JbwsMAmBJmO9EmO1kEsa3nhmrvotGnZhkiJ6POHFs29P9mYW6XgLLCqBpXaSu0Rw3_RYxTPzPR-JY9UGjBBwHkZqd6cizLcSe9qf_oejP_TOewALYE_Z6xR34FvMBfM4xBCZiGd1_uqRJpJkCWMo3POWpek7L8TbLjqe2ggoWRaEKKUXM1bU8KPhO2cpTBkGVhONhPg8ug70e5yNKa7Urjziwiw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/,,,,,Closed source,,,
+ViruSafe,Bulgaria,MyKid-xxh3bmRggnyCWZFZLENqMTvo7UdGLoe8SvFJkbtJDvKCsnVMKAE7zVxZ63rUA=s180-rw (https://dl.airtable.com/.attachments/0acc1be87ae34b5e614e8674786c554f/287b75da/MyKid-xxh3bmRggnyCWZFZLENqMTvo7UdGLoe8SvFJkbtJDvKCsnVMKAE7zVxZ63rUAs180-rw),https://virusafe.info/,,GPS,,,Open source,https://github.com/scalefocus?q=virusafe,ScaleFocus,
+Close Contact Detector (?),China,,?,,,,,Closed source,,Chinese gov,
+CoronApp,Colombia,kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0=s180-rw (https://dl.airtable.com/.attachments/453dfe8a0ab2c9fbc8e3416c89011513/25b51fc1/kibLKqpJ_GlDrlWOIyx2-48SwZidyVIGwP1zQby4JF_A-uNaFgLAx_s_umwx5GSA0H0s180-rw),https://coronaviruscolombia.gov.co/Covid19/aislamiento-saludable/coronapp.html,,Bluetooth and GPS,,,,,,
+eRouška,Czech Republic,XmybKTYht3tPjkL_1gLQAjywDWD96kpvSu5No5AH4kujTOxSuqX4m1bVxBtcPoHdww=s180-rw (https://dl.airtable.com/.attachments/1b4454c03f09b2f7a10fe3309b3822ec/89f7b632/XmybKTYht3tPjkL_1gLQAjywDWD96kpvSu5No5AH4kujTOxSuqX4m1bVxBtcPoHdwws180-rw),https://erouska.cz/,,,,,Open source,https://github.com/covid19cz,,
+Estonia Contact Tracing App,Estonia,,https://e-estonia.com/trace-covid-19-while-respecting-privacy/,Apple-Google Privacy-Preserving Contact Tracing Specification,,,,,,,
+Ketju,Finland,,https://ketjusovellus.fi/,,,,,,,2m-IT,
+StopCovid,France,,https://www.inria.fr/fr/stopcovid,ROBERT,,,,Open source (partially),https://gitlab.inria.fr/stopcovid19,French government,
+Corona-Warn-App,Germany,Screen Shot 2020-06-02 at 10.21.56 AM.png (https://dl.airtable.com/.attachments/242d330b32314326caccd41ddf372f33/646e5a7a/ScreenShot2020-06-02at10.21.56AM.png),https://github.com/corona-warn-app/cwa-documentation,Apple-Google Privacy-Preserving Contact Tracing Specification,Bluetooth - Google/Apple APIs?,On device (Google/Apple API),,Open source,https://github.com/corona-warn-app,German Government  with SAP + Deutsche Telekom,
+Rakning C-19,Iceland,sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQ=s180-rw (https://dl.airtable.com/.attachments/ca989e8a4761ab1e18ba27b92074adcc/e2ae7a7b/sOUUvLX0EQllNQDk2f85p8AJ2J2MtG2a6EQuX9msAZ9TuDwAs1mfNYVdSeZbOt2AsQs180-rw),https://www.covid.is/app/is,,GPS,,Phone number,,,,
+Aarogya Setu,India,2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np=s180-rw (https://dl.airtable.com/.attachments/289fe009a32274a5d1e0cd443ecd29a1/9200000e/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1nps180-rw),https://www.mygov.in/aarogya-setu-app/,,Bluetooth and GPS,Centralized,Phone number,Open source (android only),https://github.com/nic-delhi/AarogyaSetu_Android,Government of India,Available. 80+ million downloads
+Ireland Contact Tracing App,Ireland,,,,,,,,,,
+Hamagen,Israel,AVJm7zIOg7V35X9VUEKjYtEBQgcUWguVwQ_N-qTXlh2LOLphljpYmPOsLgTUvDhqyQ=s180-rw (https://dl.airtable.com/.attachments/61a2b62e2aa13e74fc0d678af6fdd20b/7050b11b/AVJm7zIOg7V35X9VUEKjYtEBQgcUWguVwQ_N-qTXlh2LOLphljpYmPOsLgTUvDhqyQs180-rw),https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/,,GPS,On device?,,,,,
+Immuni,Italy,QSb7_bHeT5dQZReUWLirWVSQygmr4CzBioyfxutL84IB-CFY6BuKPdDyKVSWuvIVbtk=s180-rw (https://dl.airtable.com/.attachments/6d439bc9a5f1c2a6cc2ccb51348bd8a5/bb54311c/QSb7_bHeT5dQZReUWLirWVSQygmr4CzBioyfxutL84IB-CFY6BuKPdDyKVSWuvIVbtks180-rw),,Apple-Google Privacy-Preserving Contact Tracing Specification,Bluetooth - Google/Apple APIs?,On device (Google/Apple API),,,,Bending Spoons,
+Apturi Covid,Latvia,Ujk59m6SFhlsReiGlGGpsACrmY8pR858wlZuM0j84gPnAWFSK4E_bOf_ldfNKmojy7NR=s180-rw (https://dl.airtable.com/.attachments/4bd93f5cf03291dd98aa5181a078832f/b8d84d43/Ujk59m6SFhlsReiGlGGpsACrmY8pR858wlZuM0j84gPnAWFSK4E_bOf_ldfNKmojy7NRs180-rw),https://www.apturicovid.lv/#en,Apple-Google Privacy-Preserving Contact Tracing Specification,,,,,,,
+,Luxembourg,,,,,,,,,,
+MyTrace,Malaysia,dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WA=s180-rw (https://dl.airtable.com/.attachments/2d6f06602953fd5937aee063b2a94ff4/b087db1c/dn47DSUpo5PvxRWmgsIRiPQgYLkktBZmC4sHew2gbkvoTuKP6LSH0lwvfgb4hVE6WAs180-rw),https://www.mosti.gov.my/web/en/mytrace/,,Bluetooth,Centralized,,Closed source,,,
+CovidRadar,Mexico,f_Gd1LSXlOna63bc4_96mZLeYr6mrrRlMSpoLnCFwrwqpLeZGQ4JZG_pzbN46A1b3Ew=s180-rw (https://dl.airtable.com/.attachments/3802b851d3d4695118b6b228dd9b532e/28c19f45/f_Gd1LSXlOna63bc4_96mZLeYr6mrrRlMSpoLnCFwrwqpLeZGQ4JZG_pzbN46A1b3Ews180-rw),http://covidradar.mx,,Bluetooth,,,,,,
+NZ COVID Tracer,New Zealand,ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Q=s180-rw (https://dl.airtable.com/.attachments/a34653dc4d778fc0d362385a465a2272/98dc2421/ZMA1dWRZWVPtipUtSx37rzC7jwY3AFwQwGhg5QiofY5CHDId19OZeYxAcVwj6odi1Qs180-rw),https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-general-public/contact-tracing-covid-19/nz-covid-tracer-app,,Manual checkin (QR code),,,,,,
+Smittestopp,Norway,PCgkwVsRAIFTuvuDxGp7d6CHn_cgkRaL-utspBqHov8JP_pQ6s60ONLcHIE7wZjeO4Q=s180-rw (https://dl.airtable.com/.attachments/0c4279317e0595cc331f4ce1e7056a3a/019f6d4b/PCgkwVsRAIFTuvuDxGp7d6CHn_cgkRaL-utspBqHov8JP_pQ6s60ONLcHIE7wZjeO4Qs180-rw),https://helsenorge.no/coronavirus/smittestopp,,Bluetooth and GPS,Centralized,,,,,
+ProteGo Safe,Poland,NtUrs_H-kNSrK5Nj0qNk-DiiSfPRjFxzP8VQVsugRVCQVM13LHPoRBbhQc105efj44Q=s180-rw (https://dl.airtable.com/.attachments/e581b2863ea8636ec7046ba3ef2e6e38/3ecbfe60/NtUrs_H-kNSrK5Nj0qNk-DiiSfPRjFxzP8VQVsugRVCQVM13LHPoRBbhQc105efj44Qs180-rw),https://www.gov.pl/web/cyfryzacja/pokonajmy-razem-koronawirusa--poznaj-protego-safe,Apple-Google Privacy-Preserving Contact Tracing Specification,Bluetooth - Google/Apple APIs?,On device (Google/Apple API),,Open source,https://github.com/ProteGO-Safe,,
+,Russia,,,,,,,,,,
+TraceTogether,Singapore,57tTeRzYTOp-fs4z2sxM6mQ3Li0gC_f-072196o60haILVorVjkoOetA5XXBqirFCAg=s180-rw (https://dl.airtable.com/.attachments/c17fed55497a5e7716451d4384671e71/e7ead7f7/57tTeRzYTOp-fs4z2sxM6mQ3Li0gC_f-072196o60haILVorVjkoOetA5XXBqirFCAgs180-rw),https://www.tracetogether.gov.sg/,BlueTrace,Bluetooth,Centralized ,Phone number,Open source (reference implementation) - Open Trace,https://github.com/opentrace-community,Government Technology Agency - Singapore,Available. Few million users
+,South Korea,,,,,,,,,,
+SwissCovid,Switzerland,r7hDT5Dndi68lqzP3ASqaWWp3bpdyFljOK9aNfCD29EemqgeOyCCmTUvuM_K7oGKNA=s180-rw (https://dl.airtable.com/.attachments/35ca92fc9d1dbdc6fe9a281c01ea6281/d08fe965/r7hDT5Dndi68lqzP3ASqaWWp3bpdyFljOK9aNfCD29EemqgeOyCCmTUvuM_K7oGKNAs180-rw),https://ncs-tf.ch/de/policy-briefs/digital-proximity-tracing-15-may-20-en/download,"DP3-T,Apple-Google Privacy-Preserving Contact Tracing Specification",Bluetooth,On device,,,,EPFL and ETH Zurich,
+,Taiwan,,,,,,,,,,
+NHS COVID-19,UK,CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5c=s180-rw (https://dl.airtable.com/.attachments/2e061d217ad0c77d3673e8f682b57e7f/45e8f2d9/CPdp4QMmps3ojjnYpGXber16US694z5Zl93DTJfHlSj7ocaESWSfNkFSz8nAAA29o5cs180-rw),https://covid19.nhs.uk/,,Bluetooth (local storage only),Centralized,First part of pin/postcode,Open source,https://github.com/nhsx/COVID-19-app-Documentation-BETA,UK government / NHS,In beta trials (Isle of Wright)
+ALHOSN UAE,United Arab Emirates,cSF-juPpA07tKkcLr3ztlZB8TOrNRDwNfHkXlTw6pmF2hAUQQuNywd4f2EAPpr7W2EU=s180-rw (https://dl.airtable.com/.attachments/c5c99f69b16e9b640c6292d3b9d00fb4/bbed6bb8/cSF-juPpA07tKkcLr3ztlZB8TOrNRDwNfHkXlTw6pmF2hAUQQuNywd4f2EAPpr7W2EUs180-rw),https://www.ncema.gov.ae/alhosn/index.html,,Bluetooth,,,,,,
+Care19,US - North Dakota,,https://ndresponse.gov/covid-19-resources/care19,,GPS,,,,,,
