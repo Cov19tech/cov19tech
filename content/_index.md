@@ -12,3 +12,5 @@ A list of many of the contact tracing applications released so far, with some de
 
 {{< airtable src="https://airtable.com/embed/shrsbx1YCXeSXcqjy?backgroundColor=gray&viewControls=on" >}}
 If you see any errors, can fill in any gaps, or have additional apps to add, please [write in](/contact)
+
+Cov19Tech sends out a [newsletter](https://cov19tech.substack.com/archive) with updates and articles of interest once or twice a week. You can [sign up for updates here](https://cov19tech.substack.com/subscribe)

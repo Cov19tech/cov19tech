@@ -10,4 +10,6 @@ The initial focus on Cov19Tech is to document the array of contact tracing appli
 
 We intend to branch beyond contracing tracing apps to internal health department tools, immunity passports, and other technologies as they evolve. 
 
+Cov19Tech sends out a [newsletter](https://cov19tech.substack.com/archive) with updates and articles of interest once or twice a week. You can [sign up for updates here](https://cov19tech.substack.com/subscribe)
+
 Cov19Tech was initiated by [Nosh Petigara](https://www.linkedin.com/in/noshp) in May 2020.
