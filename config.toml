@@ -49,6 +49,15 @@ theme = "loveit"
     title = ""
     weight = 5
 
+[[menu.main]]
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://github.com/Cov19tech/cov19tech"
+    title = "GitHub"
+    weight = 6
+
   
 
 [params.list]
