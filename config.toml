@@ -48,7 +48,14 @@ theme = "loveit"
     url = "/about/"
     title = ""
     weight = 5
-
+[[menu.main]]
+    identifier = "newsletter"
+    pre = ""
+    post = ""
+    name = "Newsletter"
+    url = "https://cov19tech.substack.com/"
+    title = ""
+    weight = 6
 [[menu.main]]
     identifier = "github"
     pre = "<i class='fab fa-github fa-fw'></i>"
@@ -56,7 +63,15 @@ theme = "loveit"
     name = ""
     url = "https://github.com/Cov19tech/cov19tech"
     title = "GitHub"
-    weight = 6
+    weight = 7
+[[menu.main]]
+    identifier = "twitter"
+    pre = "<i class='fab fa-twitter fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://twitter.com/cov19tech"
+    title = "Twitter"
+    weight = 8
 
   
 
